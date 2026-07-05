@@ -17,3 +17,12 @@
 - Downloadable ACLs (dACL)
 - Guest Access
 - BYOD
+## Operational Workflow
+
+1. User authentication
+2. Endpoint identity validation
+3. Authorization policy evaluation
+4. Dynamic VLAN or downloadable ACL assignment
+5. Accounting and session logging
+6. Continuous monitoring and posture assessment
+7. Incident troubleshooting and policy review
