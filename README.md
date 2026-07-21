@@ -26,3 +26,16 @@
 5. Accounting and session logging
 6. Continuous monitoring and posture assessment
 7. Incident troubleshooting and policy review
+
+## Cisco ISE Topics
+
+- Deployment Architecture
+- Policy Sets
+- Authentication
+- Authorization
+- 802.1X
+- MAB
+- Endpoint Profiling
+- Guest Access
+- TACACS+ Administration
+- Troubleshooting
